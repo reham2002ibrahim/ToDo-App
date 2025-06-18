@@ -1,7 +1,7 @@
 
 📝 Tasky – Simple To-Do App for iOS
 
-Tasky** is a basic and clean task manager app built using Objective-C and UIKit. It helps you organize your daily tasks, set priorities, track progress, and get reminders — all saved locally on your device.
+Tasky is a basic and clean task manager app built using Objective-C and UIKit. It helps you organize your daily tasks, set priorities, track progress, and get reminders — all saved locally on your device.
 
 
 ---
